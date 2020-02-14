@@ -1,3 +1,6 @@
+// use of square bracket notation keeping the callouts consitent.
+
+
 // ******** listen for auth status changes *********
 
 auth.onAuthStateChanged(user => {
